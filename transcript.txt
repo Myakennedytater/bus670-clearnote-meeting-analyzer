@@ -1,0 +1,73 @@
+Acme Candle Co. — Q2 Planning Meeting
+Date: April 8, 2026
+Attendees: Sarah Chen (CEO), Marcus Rivera (Marketing), Priya Patel (Operations), Diego Morales (Customer Success)
+
+Sarah: Thanks everyone for making time. Let's keep this to 45 minutes. Big topics for Q2 — Mother's Day campaign, new fulfillment partner, subscription box, warehouse lease. Marcus, start us off. Where are we on Mother's Day?
+
+Marcus: Landing page is in design review. Planning three email drops — warm-up April 20th, reminder May 1st, final call May 8th. One problem though: our email list growth has been flat for six weeks.
+
+Sarah: Flat why?
+
+Marcus: Two reasons. Instagram engagement dropped after the February algorithm change. And the signup pop-up on the site has been broken on mobile — we're getting about 40% fewer signups than we were in January.
+
+Priya: I flagged that in Slack two weeks ago. Nobody picked it up?
+
+Marcus: No, and that's on me. I'll own it. I'll get the dev contractor on it this week — should have the fix deployed by Friday.
+
+Sarah: Good, that's priority one. Now Priya, fulfillment.
+
+Priya: New fulfillment partner goes live April 15th. I've been running parallel test shipments with both providers for the last week. New partner is about 18% cheaper and shipping times look comparable. One concern though — they don't do Saturday pickups. Our current provider does. For Mother's Day week specifically, Friday-night orders won't ship until Monday.
+
+Sarah: That's a real risk. Can you negotiate Saturday service for peak weeks?
+
+Priya: I'll ask. No promises.
+
+Sarah: OK, please push on that. Diego — anything from support?
+
+Diego: A few things. Biggest one: we had 220 support tickets in March, and about 30% were "where's my order" type questions. Most of those customers actually had the tracking email but couldn't find the link — our confirmation emails are cluttered.
+
+Sarah: Can we redesign them?
+
+Diego: I can draft the copy. I'd need Marcus for the design work.
+
+Marcus: I can do the design, but realistically not until after Mother's Day launches.
+
+Sarah: OK. Diego, you draft copy by end of April. Marcus, you do design in May after the campaign is out. Aim to ship the new confirmation email in June.
+
+Diego: Works.
+
+Sarah: Subscription box. We've been talking about this for three months. Status?
+
+Marcus: Haven't had bandwidth. The rough idea is still "Candle of the Month" at $29.
+
+Priya: From ops, subscriptions add complexity but give us predictable inventory. I'd want to model fulfillment cost before committing.
+
+Sarah: We need a real plan before Q3. Let's revisit in two weeks with numbers.
+
+Priya: Who's owning it?
+
+Sarah: Good question. Marcus has been closest.
+
+Marcus: Honestly, I'm maxed out with Mother's Day. If we want this to actually happen, we might need a dedicated person. Could we hire a part-time marketing coordinator?
+
+Sarah: Let me think about it. For now, focus on Mother's Day and let's revisit subscription in mid-May.
+
+Priya: Warehouse lease renewal is coming up in July. Rent's going up 12%. We should decide whether to renew or look at alternatives.
+
+Sarah: How much lead time if we move?
+
+Priya: About 60 days, so we need to decide by mid-May.
+
+Sarah: Priya, put together a comparison — renew vs. alternatives. Get it to me in two weeks.
+
+Priya: Will do.
+
+Diego: One more — refund policy. We've had edge cases recently. Candles arriving melted due to shipping delays, but the gift recipient doesn't unbox for 45 to 60 days. Current policy is 30 days no questions asked.
+
+Sarah: That's tricky. Let me think about it. Not a decision for today.
+
+Marcus: One thing to flag — I heard Yankee Candle is launching an artisan line in Q3. Could compress our pricing on the premium segment.
+
+Sarah: Noted. Worth watching but no action today.
+
+Sarah: Anything else? ... OK, thanks everyone.

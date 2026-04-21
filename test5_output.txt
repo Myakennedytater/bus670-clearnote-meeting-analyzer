@@ -1,0 +1,24 @@
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+WARNING: The transcript is largely exploratory with no firm decisions, owners, or deadlines. Most items were raised tentatively and deferred.
+
+SUMMARY
+Jen (Product) and Raj (Engineering) held an informal roadmap discussion on April 20, 2026, covering a potential dark mode feature, a possible mobile app, and checkout page performance issues. The conversation was exploratory, and no firm commitments were reached on any topic.
+
+DECISIONS MADE
+- None identified
+
+ACTION ITEMS
+- Check whether the data team already has checkout page performance numbers — Owner: Raj — Deadline: [NO DEADLINE GIVEN]
+
+OPEN QUESTIONS
+- Is there strong enough user demand to justify building dark mode?
+- Should a mobile app be built now, or is it too early?
+- If pursuing mobile validation, should we run a user survey, pull mobile web analytics, or both — and in what order?
+- Are checkout page performance issues actually hurting conversions, or are they a lower priority?
+- When will the team reconvene to decide on these items?
+
+RISKS / CONCERNS
+- Risk of building the wrong thing (dark mode) without a stronger user signal
+- Uncertainty about the breadth of demand for a mobile app
+- Potential performance issues on the checkout page that may or may not be affecting conversions
+- Lack of clear next steps or ownership — items risk stalling without a scheduled follow-up

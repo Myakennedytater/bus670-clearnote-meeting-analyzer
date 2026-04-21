@@ -1,0 +1,28 @@
+Product Roadmap Discussion — April 20, 2026
+Attendees: Jen (Product), Raj (Engineering)
+
+Jen: I've been thinking we should maybe look at adding a dark mode. A few users have been asking about it, but I'm not sure how strong the signal is.
+
+Raj: Yeah, I think we might be able to do that. It could take a sprint or two, depending on how deep we want to go. Maybe we just start with a basic version?
+
+Jen: Possibly. Or we could wait until we hear it from more users. I don't want to build the wrong thing.
+
+Raj: Fair. What about the mobile app idea?
+
+Jen: I keep going back and forth. Part of me thinks we should, part of me thinks it's too early. A couple of users mentioned it but I don't know how broad the need is.
+
+Raj: I'd want to validate demand first. We could maybe do a quick survey? Or pull analytics on mobile web traffic?
+
+Jen: Both are probably worth doing at some point. Not sure which first.
+
+Raj: I think we should possibly look at the performance issues on the checkout page too. It's been bothering me.
+
+Jen: Yeah, that seems worth prioritizing. Or maybe not — depends on what the data shows. If conversions are fine, it might not be urgent.
+
+Raj: I can pull some numbers. Or actually, the data team might have it already. Let me check.
+
+Jen: OK. Let's circle back on all of this.
+
+Raj: Sounds good. Maybe next week?
+
+Jen: Maybe. We'll figure it out.

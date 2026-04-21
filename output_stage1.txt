@@ -1,0 +1,37 @@
+SUMMARY
+Acme Candle Co.'s leadership team met to plan Q2 priorities, covering the Mother's Day campaign, transition to a new fulfillment partner, the stalled subscription box idea, and an upcoming warehouse lease renewal. Discussion also touched on customer support volume driven by unclear order confirmation emails and emerging risks like a competitor's new product line.
+
+DECISIONS MADE
+- Fixing the broken mobile signup pop-up is the top priority.
+- New fulfillment partner will go live April 15th as planned.
+- Diego will draft new confirmation email copy; Marcus will design after Mother's Day; new email targeted to ship in June.
+- Subscription box planning is deferred — will be revisited in mid-May.
+- Priya will produce a warehouse renew-vs-alternatives comparison, with a decision needed by mid-May.
+- No action today on the refund policy question or the Yankee Candle competitive threat.
+
+ACTION ITEMS
+- Get dev contractor to fix mobile signup pop-up — Owner: Marcus — Deadline: Friday (by end of week of April 8)
+- Ask new fulfillment partner about Saturday pickups for peak weeks — Owner: Priya — Deadline: [NO DEADLINE GIVEN]
+- Draft copy for redesigned order confirmation email — Owner: Diego — Deadline: End of April 2026
+- Design redesigned order confirmation email — Owner: Marcus — Deadline: May 2026 (after Mother's Day launch)
+- Ship new confirmation email — Owner: [OWNER NOT SPECIFIED] — Deadline: June 2026
+- Put together warehouse renew vs. alternatives comparison — Owner: Priya — Deadline: Approximately April 22, 2026 (two weeks from meeting)
+- Revisit subscription box plan with numbers — Owner: [OWNER NOT SPECIFIED] — Deadline: Mid-May 2026
+- Decide whether to renew warehouse lease or move — Owner: Sarah — Deadline: Mid-May 2026
+
+OPEN QUESTIONS
+- Will the new fulfillment partner agree to Saturday pickups during peak weeks?
+- Who will own the subscription box initiative going forward?
+- Should Acme hire a part-time marketing coordinator to free up capacity?
+- How should the refund policy handle gift recipients who unbox 45–60 days after purchase?
+- Renew the current warehouse lease at a 12% rent increase, or move?
+
+RISKS / CONCERNS
+- Email list growth has been flat for six weeks, threatening Mother's Day campaign reach.
+- Instagram engagement dropped after the February algorithm change.
+- New fulfillment partner doesn't do Saturday pickups — Friday-night Mother's Day orders won't ship until Monday.
+- 30% of March support tickets were "where's my order" questions caused by cluttered confirmation emails.
+- Marcus is maxed out, putting the subscription box initiative at risk of continued delay.
+- Warehouse rent increasing 12% on renewal.
+- Yankee Candle's planned Q3 artisan line could compress Acme's premium-segment pricing.
+- Internal communication gap: Priya flagged the signup pop-up issue in Slack two weeks prior and it went unaddressed.

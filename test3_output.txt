@@ -1,0 +1,19 @@
+Warning: no stdin data received in 3s, proceeding without it. If piping from a slow command, redirect stdin explicitly: < /dev/null to skip, or wait longer.
+SUMMARY
+Sarah and Tom held a brief standup to check progress on the May 5th website refresh. They reviewed the hero image timeline, a pending headline from the copywriter, and a hosting maintenance conflict with the final QA window.
+
+DECISIONS MADE
+- None identified
+
+ACTION ITEMS
+- Finalize the hero image — Owner: Tom — Deadline: Thursday
+- Ping the copywriter about the outstanding headline — Owner: Sarah — Deadline: today
+- Contact the hosting provider to request rescheduling the May 3rd maintenance — Owner: Tom — Deadline: [NO DEADLINE GIVEN]
+
+OPEN QUESTIONS
+- When will the copywriter deliver the headline?
+- Will the hosting provider agree to reschedule the May 3rd maintenance?
+
+RISKS / CONCERNS
+- Hosting provider maintenance on May 3rd overlaps with the final QA window for the May 5th launch.
+- Headline copy is outstanding with no committed delivery date, which could delay the hero image or launch.
